@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "602613398508",
+    "project_id": "mindfulmeasures-3eabd",
+    "storage_bucket": "mindfulmeasures-3eabd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:602613398508:android:f6c71f9a7cc238e0981ec9",
+        "android_client_info": {
+          "package_name": "com.example.mindfulmeasures"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB9hn7Nbh4rYSnUnJ8n588eqeCCaMT57Dg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:602613398508:android:9298766c3cecec5b981ec9",
+        "android_client_info": {
+          "package_name": "com.example.usermanagementdashboard"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB9hn7Nbh4rYSnUnJ8n588eqeCCaMT57Dg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
